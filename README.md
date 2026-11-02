@@ -101,7 +101,7 @@ My current focus is on combining **AI engineering with strong software engineeri
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GrayNguyen-Data&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GrayDev-VN&theme=tokyonight&hide_border=true" />
 
 </div>
 
