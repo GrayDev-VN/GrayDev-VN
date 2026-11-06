@@ -61,11 +61,11 @@ My current focus is on combining **AI engineering with strong software engineeri
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,pytorch,tensorflow,sklearn&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,pytorch,tensorflow,sklearn&perline=11" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,git,github,linux,postman,aws,react,nextjs&perline=10" height="48" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,git,github,linux,postman,aws,react&perline=11" height="48" alt="Tech stack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" height="48" width="48" alt="Neo4j" />
 </p>
 
